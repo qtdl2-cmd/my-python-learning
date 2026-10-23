@@ -56,3 +56,5 @@ print("Tỷ lệ chốt cơ sở 2:", tyle_chot_co_so_2, "%")
 print("Tỷ lệ chốt cơ sở 3:", tyle_chot_co_so_3, "%")    
 
 # %%
+print("hello world")
+# %%
